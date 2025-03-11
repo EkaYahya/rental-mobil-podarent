@@ -1,15 +1,9 @@
-# Laravel 10 - Rental Mobil
-
-## Screenshots
-
-![preview img](/preview.png)
-
 ## Donwload
 
 Clone Projek
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/rental-mobil-laravel.git nama_projek
+  git clone https://github.com/EkaYahya/rental-mobil-podarent.git nama_projek
 ```
 
 Masuk ke folder dengan perintah
@@ -18,7 +12,7 @@ Masuk ke folder dengan perintah
   cd nama_projek
 ```
 
--   Copy .env.example menjadi .env kemudia edit databasenya
+-   Copy .env.example menjadi .env kemudian edit databasenya
 
 ```bash
     composer install
@@ -40,4 +34,3 @@ Masuk ke folder dengan perintah
 
 -   email = admin@admin.com
 -   password = 123
-# rental-mobil-podarent
